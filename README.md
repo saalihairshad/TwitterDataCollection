@@ -30,3 +30,5 @@ In case, you want to fetch the country from a user's location set Google's Geoco
 
 The code to fetch country from the user's location is commented in ``tweet_collection.py`` because it is a paid service.
 
+Write `python tweet_collection.py` in the terminal to run the code.
+
